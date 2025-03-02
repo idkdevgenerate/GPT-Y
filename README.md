@@ -1,4 +1,10 @@
-# ZeuxAI - Your Customizable AI Chatbot
+
+# ZeuxAI - Your Customizable AI Chatbot 
+<p align="right">
+  <img align="right" height="140" src="https://github.com/user-attachments/assets/6568e108-057d-49e5-873c-920f995bb4eb" alt="zeuxAI Logo" style="float: right; border-radius: 10px;"/>
+</p>
+
+
 
 ZeuxAI is a powerful and flexible AI chatbot that allows you to fine-tune its behavior and responses. Whether you need a fully static assistant, a dynamic conversational AI, or something in between, ZeuxAI gives you full control over its temperature settings and even lets you train your own LLMs!
 
