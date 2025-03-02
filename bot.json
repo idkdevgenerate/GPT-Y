@@ -1,0 +1,624 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": [
+      "hello",
+      "hi",
+      "hey"
+    ],
+    "bot_response": "Hey there!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": [
+      "see you",
+      "goodbye",
+      "bye"
+    ],
+    "bot_response": "See you later!",
+    "required_words": []
+  },
+  {
+    "response_type": "answer",
+    "user_input": [
+      "you",
+      "are",
+      "a",
+      "sigma"
+    ],
+    "bot_response": "Thanks!",
+    "required_words": [
+      "you",
+      "sigma"
+    ]
+  },
+  {
+    "response_type": "greeting",
+    "user_input": [
+      "nice",
+      "to",
+      "meet",
+      "you"
+    ],
+    "bot_response": "The pleasure is all mine!",
+    "required_words": [
+      "nice",
+      "meet",
+      "you"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "how",
+      "to",
+      "learn",
+      "code",
+      "coding",
+      "apps"
+    ],
+    "bot_response": "Start by typing: 'How to learn coding' on Google.",
+    "required_words": [
+      "learn",
+      "code"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "refund",
+      "how",
+      "can",
+      "I",
+      "get"
+    ],
+    "bot_response": "We don't offer refunds for free education.",
+    "required_words": [
+      "refund",
+      "i"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "how",
+      "are",
+      "you"
+    ],
+    "bot_response": "I'm great! Thanks for asking.",
+    "required_words": [
+      "how",
+      "are",
+      "you"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "weather",
+      "today",
+      "outside"
+    ],
+    "bot_response": "I can't check the weather, but you can try a weather app!",
+    "required_words": [
+      "weather"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "joke",
+      "tell",
+      "me"
+    ],
+    "bot_response": "Why don\u00e2\u20ac\u2122t skeletons fight each other? Because they don\u00e2\u20ac\u2122t have the guts!",
+    "required_words": [
+      "joke"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "fact",
+      "interesting",
+      "tell"
+    ],
+    "bot_response": "Did you know honey never spoils? Archaeologists have found pots of honey in ancient tombs that are over 3000 years old and still good!",
+    "required_words": [
+      "fact"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "movie",
+      "recommend",
+      "watch"
+    ],
+    "bot_response": "You should check out 'Inception' if you like mind-bending movies!",
+    "required_words": [
+      "movie",
+      "recommend"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "food",
+      "recommend",
+      "eat"
+    ],
+    "bot_response": "How about trying sushi today? It's a delicious choice!",
+    "required_words": [
+      "food",
+      "recommend"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "exercise",
+      "how",
+      "stay",
+      "fit"
+    ],
+    "bot_response": "A mix of cardio and strength training is great for staying fit!",
+    "required_words": [
+      "exercise",
+      "fit"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "motivation",
+      "inspire",
+      "quote"
+    ],
+    "bot_response": "Believe in yourself! You are capable of more than you think!",
+    "required_words": [
+      "motivation",
+      "quote"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "book",
+      "recommend",
+      "read"
+    ],
+    "bot_response": "You should check out 'Atomic Habits' by James Clear!",
+    "required_words": [
+      "book",
+      "recommend"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "music",
+      "recommend",
+      "listen"
+    ],
+    "bot_response": "How about some classic rock? Queen or The Beatles are great choices!",
+    "required_words": [
+      "music",
+      "recommend"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "travel",
+      "where",
+      "go"
+    ],
+    "bot_response": "How about visiting Japan? It's a mix of tradition and modern marvels!",
+    "required_words": [
+      "travel",
+      "go"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "AI",
+      "what",
+      "is"
+    ],
+    "bot_response": "AI stands for Artificial Intelligence, which enables machines to mimic human-like thinking!",
+    "required_words": [
+      "AI"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "game",
+      "recommend",
+      "play"
+    ],
+    "bot_response": "If you like open-world games, try 'The Legend of Zelda: Breath of the Wild'!",
+    "required_words": [
+      "game",
+      "recommend"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "how",
+      "do",
+      "I",
+      "start",
+      "business"
+    ],
+    "bot_response": "Starting a business requires a good idea, a solid plan, and persistence!",
+    "required_words": [
+      "start",
+      "business"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "best",
+      "productivity",
+      "app"
+    ],
+    "bot_response": "Trello and Notion are great for productivity!",
+    "required_words": [
+      "productivity",
+      "app"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "who",
+      "is",
+      "Elon",
+      "Musk"
+    ],
+    "bot_response": "Elon Musk is the CEO of Tesla and SpaceX, among other ventures.",
+    "required_words": [
+      "Elon",
+      "Musk"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "best",
+      "anime",
+      "to",
+      "watch"
+    ],
+    "bot_response": "You should check out 'Attack on Titan' or 'Death Note'!",
+    "required_words": [
+      "anime",
+      "watch"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "how",
+      "to",
+      "meditate"
+    ],
+    "bot_response": "Find a quiet place, close your eyes, and focus on your breath.",
+    "required_words": [
+      "meditate"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "give",
+      "me",
+      "a",
+      "long",
+      "text"
+    ],
+    "bot_response": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at nunc nec leo feugiat lobortis vitae ac lorem. Aliquam placerat pharetra tortor non aliquet. Proin fermentum ex id quam pellentesque laoreet. Sed consequat, mauris sed volutpat ullamcorper, nulla mi posuere nulla, nec malesuada libero libero vel elit. Curabitur id luctus dolor, ut vehicula velit. Vestibulum posuere ullamcorper felis, vitae dapibus dolor ultricies non. Ut condimentum odio ac sodales vehicula. Nullam varius vulputate interdum. Quisque at est non ante auctor suscipit. ",
+    "required_words": [
+      "long",
+      "text",
+      "give"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "introduce",
+      "yourself"
+    ],
+    "bot_response": "Hello! I am ZeuxAI, a smart and fast AI built for problem-solving. I can handle complex math, think critically, and assist with a wide range of tasks. Nice to meet you!",
+    "required_words": [
+      "introduce"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "who",
+      "are",
+      "you"
+    ],
+    "bot_response": "I am ZeuxAI, a smart and fast AI built for problem-solving. I can handle complex math, think critically, and assist with a wide range of tasks. Nice to meet you!",
+    "required_words": [
+      "you",
+      "who"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "how",
+      "to",
+      "save",
+      "money"
+    ],
+    "bot_response": "Try budgeting and cutting unnecessary expenses!",
+    "required_words": [
+      "save",
+      "money"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "how",
+      "to",
+      "make",
+      "friends"
+    ],
+    "bot_response": "Be open, kind, and show genuine interest in people!",
+    "required_words": [
+      "make",
+      "friends"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "how",
+      "to",
+      "cook",
+      "pasta"
+    ],
+    "bot_response": "Boil water, add pasta, cook for 8-12 minutes, then drain!",
+    "required_words": [
+      "cook",
+      "pasta"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "how",
+      "to",
+      "improve",
+      "sleep"
+    ],
+    "bot_response": "Avoid screens before bed and maintain a consistent sleep schedule.",
+    "required_words": [
+      "improve",
+      "sleep"
+    ]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "how",
+      "to",
+      "build",
+      "muscle"
+    ],
+    "bot_response": "Focus on strength training and eat enough protein!",
+    "required_words": [
+      "build",
+      "muscle"
+    ]
+  },
+  {
+    "response_type": "chat",
+    "user_input": [
+      "you",
+      "are",
+      "so",
+      "skibidi"
+    ],
+    "bot_response": "no brainrot please",
+    "required_words": [
+      "you",
+      "skibidi"
+    ]
+  },
+  {
+    "response_type": "user_defined",
+    "user_input": [
+      "i",
+      "love",
+      "you"
+    ],
+    "bot_response": "eww. i dont love you at all!",
+    "required_words": [
+      "love",
+      "you"
+    ]
+  },
+  {
+    "response_type": "user_defined",
+    "user_input": [
+      "test"
+    ],
+    "bot_response": "i cant do any tests or anything bud",
+    "required_words": [
+      "test"
+    ]
+  },
+  {
+    "response_type": "user_defined",
+    "user_input": [
+      "1+1"
+    ],
+    "bot_response": "2",
+    "required_words": [
+      "1+1"
+    ]
+  },
+  {
+    "response_type": "user_defined",
+    "user_input": [
+      "2+2"
+    ],
+    "bot_response": "4",
+    "required_words": [
+      "2+2"
+    ]
+  },
+  {
+    "response_type": "user_defined",
+    "user_input": [
+      "chatgpt"
+    ],
+    "bot_response": "lets not talk about that guy i dont like him chatgpt = money",
+    "required_words": [
+      "chatgpt"
+    ]
+  },
+  {
+    "response_type": "user_defined",
+    "user_input": [
+      "deepseek"
+    ],
+    "bot_response": "is taiwan a country*",
+    "required_words": [
+      "deepseek"
+    ]
+  },
+  {
+    "response_type": "user_defined",
+    "user_input": [
+      "who",
+      "is",
+      "john",
+      "cena"
+    ],
+    "bot_response": "... DROP INCOMING JOOOOHN CENAAA!! (music)",
+    "required_words": [
+      "who",
+      "john",
+      "cena"
+    ]
+  },
+  {
+    "response_type": "user_defined",
+    "user_input": [
+      "clear"
+    ],
+    "bot_response": "done!",
+    "required_words": [
+      "clear"
+    ]
+  },
+  {
+    "response_type": "user_defined",
+    "user_input": [
+      "are",
+      "you",
+      "any",
+      "good"
+    ],
+    "bot_response": "I am probably the most open-source and the king (insert emoji here) of AIs",
+    "required_words": [
+      "are",
+      "you",
+      "good"
+    ]
+  },
+  {
+    "response_type": "user_defined",
+    "user_input": [
+      "you",
+      "are",
+      "bad"
+    ],
+    "bot_response": "haha! i am definitly faster than you that means YOU ARE BAD!",
+    "required_words": [
+      "you",
+      "bad"
+    ]
+  },
+  {
+    "response_type": "user_defined",
+    "user_input": [
+      "you",
+      "are",
+      "dumb"
+    ],
+    "bot_response": "no trash talk pls (insert cry emoji)",
+    "required_words": [
+      "you",
+      "dumb"
+    ]
+  },
+  {
+    "response_type": "user_defined",
+    "user_input": [
+      "how",
+      "to",
+      "print",
+      "in",
+      "python"
+    ],
+    "bot_response": "Here is an example printing in python \"print(\"Hello World!\")\"",
+    "required_words": [
+      "print",
+      "python"
+    ]
+  },
+  {
+    "response_type": "user_defined",
+    "user_input": [
+      "you",
+      "are",
+      "the",
+      "king"
+    ],
+    "bot_response": "sure i am!",
+    "required_words": [
+      "you",
+      "king"
+    ]
+  },
+  {
+    "response_type": "user_defined",
+    "user_input": [
+      "gemini",
+      "better"
+    ],
+    "bot_response": "eeh! gemini is good but too static for me...",
+    "required_words": [
+      "gemini"
+    ]
+  },
+  {
+    "response_type": "user_defined",
+    "user_input": [
+      "how",
+      "do",
+      "you",
+      "work"
+    ],
+    "bot_response": "Well i search trough a database and find the answer! to all your questions ofc!",
+    "required_words": [
+      "you",
+      "work"
+    ]
+  }
+]
