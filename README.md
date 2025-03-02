@@ -25,9 +25,9 @@ Want to create your own AI model? ZeuxAI makes it possible!
 
 ## 📦 Installation
 ```
-git clone https://github.com/yourusername/zeuxai.git
-cd zeuxai
-pip install -r requirements.txt
+git clone https://github.com/yourusername/zeuxAI
+cd zeuxAI
+python main.py
 ```
 ## 💡 Usage
 
