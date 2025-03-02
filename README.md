@@ -1,5 +1,5 @@
 
-# ZeuxAI - Your Customizable AI Chatbot 
+# ZeuxAI - openAI but it's actually open!
 <p align="right">
   <img align="right" height="140" src="https://github.com/user-attachments/assets/6568e108-057d-49e5-873c-920f995bb4eb" alt="zeuxAI Logo" style="float: right; border-radius: 10px;"/>
 </p>
